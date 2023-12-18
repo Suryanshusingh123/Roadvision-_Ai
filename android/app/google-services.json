@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244703925406",
+    "project_id": "roadvision-278e6",
+    "storage_bucket": "roadvision-278e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244703925406:android:3a7d65cf9140cf409d178f",
+        "android_client_info": {
+          "package_name": "com.example.roadvision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA88jc0gbx8iUkZWMR7jAQrLqLKKgvGmUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
